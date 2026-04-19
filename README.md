@@ -1,0 +1,1 @@
+# Multispectral-Wildlife-Detection-RGB-Thermal-Fusion-with-YOLOv8
