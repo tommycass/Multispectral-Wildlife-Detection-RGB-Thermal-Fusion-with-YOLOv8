@@ -62,7 +62,7 @@ Generalization validated on **SMOD** (SJTU Multispectral Object Detection) — 8
 
 ## Paper
 
-Full paper available in this repository: [`Informe_TP_Final_Vision_Artificial.pdf`](./Informe_TP_Final_Vision_Artificial.pdf)
+Full paper available in this repository: [`Paper_Multiespectral_Wildlife_Detection.pdf`](Paper_Multiespectral_Wildlife_Detection.pdf)
 
 ---
 
@@ -132,4 +132,4 @@ Generalización validada en **SMOD** (SJTU Multispectral Object Detection) — 8
 
 ## Paper
 
-Paper completo disponible en este repositorio: [`Informe_TP_Final_Vision_Artificial.pdf`](./Informe_TP_Final_Vision_Artificial.pdf)
+Paper completo disponible en este repositorio: [`Paper_Multiespectral_Wildlife_Detection.pdf`](./Paper_Multiespectral_Wildlife_Detection.pdf)
